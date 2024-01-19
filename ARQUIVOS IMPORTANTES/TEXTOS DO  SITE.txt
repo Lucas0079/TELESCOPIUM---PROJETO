@@ -1,0 +1,26 @@
+MENU -  HOME 
+	PRODUTOS
+	LOGIN
+
+CONTAINER DIVULGAÇÃO 1 -  BLOCO 1 :   "Sinta a emoção de explorar o cosmos com clareza e precisão sem precedentes. Nosso telescópio tecnológico eleva a observação astronômica a novos patamares."
+			   	      ADQUIRA O SEU!
+
+		
+			  BLOCO 2:  
+				    TECNOLOGIA AVANÇADA
+				    SUB-BLOCO-1 : Lentes de Alta Resolução: Equipado com lentes de última geração, nosso telescópio tecnológico oferece uma resolução incrível para detalhes nítidos e uma visão clara das estrelas e planetas.
+				    SUB-BLOCO-2:  Conectividade Digital: Integração perfeita com dispositivos digitais para compartilhamento instantâneo de descobertas astronômicas. Capture e compartilhe imagens deslumbrantes do espaço sideral.
+				    SUB-BLOCO-3: Design Ergonômico e Portátil: Desenvolvido com praticidade em mente, o telescópio é leve, compacto e fácil de transportar. Leve a emoção da observação estelar para qualquer lugar.
+
+
+CONTAINER DIVULGAÇÃO 2 - PAIXÃO PELA ASTRONOMIA
+
+			 "Somos apaixonados por astronomia, e nosso telescópio tecnológico reflete essa paixão. Junte-se a nós nesta jornada celestial, onde cada olhar para o céu revela uma nova história."
+
+			 "Na TelesCopium, nossa jornada é guiada por uma profunda paixão pela astronomia. Cada traço do nosso telescópio tecnológico é uma expressão dessa devoção, feito para despertar a mesma chama em todos os amantes do cosmos."
+
+			 
+
+
+
+			   

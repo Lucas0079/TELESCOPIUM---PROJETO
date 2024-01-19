@@ -1,0 +1,118 @@
+
+
+input{
+    padding: 15px;
+    border-radius: 50px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+
+
+
+
+.navegation a{
+    color: white;
+}
+
+
+form{
+    padding: 40px;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+    text-align: center;
+    background-color: white;
+    height: 450px;
+    position: relative;
+    top: 4%;
+    left: 30%;
+}
+
+legend{
+    margin-bottom: 20px;
+    font-weight: 1000;
+    font-size: 20px;
+}
+
+.icone{
+    width: 50px;
+    position: relative;
+    top: 10%;
+    right: -10%;
+}
+
+body{
+    width: 100%;
+    background-image: url("images/[GetPaidStock.com]-65aa798b5ffe2.jpg");
+    background-size: cover;
+    background-position:  60%;
+}
+
+form  a {
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 90%;
+    margin: 20px;
+}
+
+
+.bloco-login{
+    display: flex;
+    height: 500px;
+    justify-content: center;
+    margin: 60px;
+    
+    
+}
+
+.bloco-login button{
+    width: 90%;
+    padding: 20px;
+    border-radius: 50px;
+    border: 2px solid rgb(255, 255, 255);
+    margin: 20px;
+    background-color: rgb(19, 246, 38);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 18px;
+    transition: 1s;
+    
+}
+
+.bloco-login a{
+    width: 90%;
+    padding: 20px;
+    border-radius: 50px;
+    border: 2px solid rgb(255, 255, 255);
+    margin: 20px;
+    background-color: rgb(19, 246, 38);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 18px;
+    transition: 1s;
+}
+
+.bloco-login a:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+    background-color: rgba(19, 246, 38, 0.234);
+}
+
+.bloco-login button:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+    background-color: rgba(19, 246, 38, 0.234);
+}
+
+
+.container-rodape{
+    background-image: url("images/[GetPaidStock.com]-65aa798b5ffe2.jpg");
+    background-size: cover;
+    
+}
+
+
