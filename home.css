@@ -209,3 +209,187 @@
     transform: scale(1.07);
     cursor: pointer;
 }
+
+
+
+@media screen and (min-width: 320px) and (max-width: 480px){
+    .container{
+        width: 100%;
+    }
+
+    .cabeçalho{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        padding: 70px 0px;
+    }
+
+    .navegation{
+        margin: 20px 0px;
+    }
+
+    .navegation a{
+        margin: 0px 20px;
+    }
+
+    .secao-1{
+        width: 100%;
+        background-position: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+        height: 100%;
+    }
+
+    .bloco-1{
+        width: 100%;
+    }
+
+    .bloco-2{
+        width: 100%;
+    }
+
+    .sub-blocos{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sub-bloco-1, .sub-bloco-2, .sub-bloco-3{
+         margin: 40px 0px ;
+    }
+
+
+    .secao-2{
+        width: 100%;
+        background-position: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+        position: relative;
+    }
+
+    .button-link{
+        position: absolute;
+        top: 86%;
+        left: 50%;
+    }
+    .secao-2 .bloco-1{
+        width: 100%;
+    }
+
+    .container-rodape{
+        width: 100%;
+    }
+
+    .rodape{
+        text-align: center;
+        padding: 20px;
+    }
+    
+    
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px){
+    
+    .navegation a{
+        margin: 0px 20px ;
+    }
+    .secao-1{
+        width: 100%;
+        height: 100%;
+        background-position: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+    }
+
+    .bloco-1{
+        width: 100%;
+    }
+
+    .bloco-2{
+        width: 100%;
+    }
+
+    .sub-blocos{
+        width: 70%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sub-bloco-1, .sub-bloco-2, .sub-bloco-3{
+        margin: 40px 0px;
+    }
+
+    .secao-2{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 40px;
+        height: 100%;
+        background-position: center;
+        position: relative;
+    }
+
+    .secao-2 .bloco-1{
+        width: 100%;
+    }
+
+    .button-link{
+        position: absolute;
+        top: 85%;
+        left: 70%;
+    }
+
+    
+}
+
+@media screen and (min-width: 769px) and (max-width: 1280px){
+    .secao-1{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 40px;
+        height: 100%;
+    }
+
+    .bloco-1{
+        width: 100%;
+    }
+
+    .bloco-2{
+        width: 100%;
+    }
+
+    .sub-blocos{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        row-gap: 40px;
+        width: 800px;
+    }
+
+   
+    .secao-2{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        padding: 40px;
+        position: relative;
+    }
+
+    .button-link{
+        position: absolute;
+        top: 80%;
+        left: 70%;
+    }
+
+    
+
+   
+}

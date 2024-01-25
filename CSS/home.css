@@ -1,0 +1,211 @@
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    font-family: 'Lora';
+}
+
+
+.cabeçalho img{
+    width: 70px;
+}
+
+.cabeçalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.195);
+    height: 90px;
+}
+
+.container{
+    background-image: url("/images/[GetPaidStock.com]-65aa7a7bc50a0.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+ .navegation{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.navegation a{
+    font-size: 18px;
+    color: white;
+    transition: 1s;
+}
+
+.navegation a:hover{
+    color: yellow;
+    transform: scale(1.05);
+}
+
+.secao-1{
+    background-image: url("/images/[GetPaidStock.com]-65aa7a7bc50a0.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 180vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.bloco-1{
+    margin: 200px;
+    width: 900px;
+    line-height: 40px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-shadow: black 2px 2px  2px ;
+}
+
+.bloco-1 h1{
+    margin-bottom: 20px;
+}
+
+.bloco-1 button{
+    padding: 30px;
+    border-radius: 50px;
+    background-color: black;
+    border: none;
+    color: white;
+    margin-top: 40px;
+}
+
+.bloco-1 button:hover{
+    color: black;
+    background-color: white;
+    cursor: pointer;
+
+}
+
+.bloco-2{
+    margin: 0px 200px;
+    color: white;
+    font-size: 18px;
+    text-shadow: black 2px 2px  2px ;
+}
+
+.bloco-2 img{
+    width: 90px;
+}
+
+.bloco-2 h3{
+    margin-bottom: 70px;
+    color: white;
+    font-size: 20px;
+    text-shadow: black 2px 2px  2px ;
+}
+
+.sub-blocos{
+    display: flex;
+    position: relative;
+}
+
+.sub-blocos span{
+    font-weight: 800;
+}
+
+.sub-blocos img{
+    width: 70px;
+}
+
+
+.sub-bloco-1{
+    margin-right: 100px;
+    padding: 20px;
+    box-shadow: black 2px 4px 4px 2px ;
+    border-radius: 50px;
+}
+
+.sub-bloco-2{
+    margin-right: 100px;
+    padding: 20px;
+    box-shadow: black 2px 4px 4px 2px ;
+    border-radius: 50px;
+}
+
+.sub-bloco-3{
+    box-shadow: black 2px 4px 4px 2px ;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+.sub-bloco-1 img ,.sub-bloco-2 img ,.sub-bloco-3 img{
+     position: relative;
+     top: 0%;
+     left: 30%;
+}
+
+
+.secao-2{
+    background-image: url("/images/[GetPaidStock.com]-65aa7ab549c49.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.secao-2 .bloco-1 p{
+    font-weight: 200;
+}
+
+.secao-2 .bloco-1 h3{
+    font-weight: 600;
+}
+
+.rodape{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.332);
+}
+
+.container-rodape{
+    background-image: url("/images/[GetPaidStock.com]-65aa7ab549c49.jpg");
+    background-size: cover;
+    background-position: 10% 61%;
+}
+
+.rodape .negrito{
+    font-weight: bold;
+}
+
+
+.icon , .button-link{
+    width: 90px;
+    position: relative;
+    left: 80%;
+    top: 12%;
+    transition: 1s;
+}
+
+.icon:hover{
+    transform: scale(1.07);
+    cursor: pointer;
+}
+
+.icon-2 , .button-link-2{
+    width: 90px;
+    position: relative;
+    left: 40%;
+    bottom: -20px;
+    transition: 1s;
+}
+
+.icon-2:hover{
+    transform: scale(1.07);
+    cursor: pointer;
+}
